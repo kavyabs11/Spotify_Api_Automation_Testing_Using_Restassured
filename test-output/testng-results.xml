@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-07T14:51:54 IST" name="Default suite" finished-at="2023-01-07T14:52:11 IST" duration-ms="17682">
+    <groups>
+    </groups>
+    <test started-at="2023-01-07T14:51:54 IST" name="Default test" finished-at="2023-01-07T14:52:11 IST" duration-ms="17682">
+      <class name="com.bridgelabz.qa.api_automation.Rest_Api_Automation_Testing_Test">
+        <test-method is-config="true" signature="getToken()[pri:0, instance:com.bridgelabz.qa.api_automation.Rest_Api_Automation_Testing_Test@3514a4c0]" started-at="2023-01-07T14:51:54 IST" name="getToken" finished-at="2023-01-07T14:51:54 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getToken -->
+        <test-method signature="get_Current_User_Profile()[pri:1, instance:com.bridgelabz.qa.api_automation.Rest_Api_Automation_Testing_Test@3514a4c0]" started-at="2023-01-07T14:51:54 IST" name="get_Current_User_Profile" finished-at="2023-01-07T14:52:03 IST" duration-ms="9245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Current_User_Profile -->
+        <test-method signature="get_User_Profile()[pri:2, instance:com.bridgelabz.qa.api_automation.Rest_Api_Automation_Testing_Test@3514a4c0]" started-at="2023-01-07T14:52:03 IST" name="get_User_Profile" finished-at="2023-01-07T14:52:03 IST" duration-ms="273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_User_Profile -->
+        <test-method signature="create_playlist()[pri:3, instance:com.bridgelabz.qa.api_automation.Rest_Api_Automation_Testing_Test@3514a4c0]" started-at="2023-01-07T14:52:03 IST" name="create_playlist" finished-at="2023-01-07T14:52:04 IST" duration-ms="538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_playlist -->
+        <test-method signature="search_for_item()[pri:4, instance:com.bridgelabz.qa.api_automation.Rest_Api_Automation_Testing_Test@3514a4c0]" started-at="2023-01-07T14:52:04 IST" name="search_for_item" finished-at="2023-01-07T14:52:04 IST" duration-ms="494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_for_item -->
+        <test-method signature="add_items_to_playlist()[pri:5, instance:com.bridgelabz.qa.api_automation.Rest_Api_Automation_Testing_Test@3514a4c0]" started-at="2023-01-07T14:52:04 IST" name="add_items_to_playlist" finished-at="2023-01-07T14:52:05 IST" duration-ms="312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_items_to_playlist -->
+        <test-method signature="get_current_users_Playlists()[pri:6, instance:com.bridgelabz.qa.api_automation.Rest_Api_Automation_Testing_Test@3514a4c0]" started-at="2023-01-07T14:52:05 IST" name="get_current_users_Playlists" finished-at="2023-01-07T14:52:05 IST" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_current_users_Playlists -->
+        <test-method signature="get_Playlists_items()[pri:7, instance:com.bridgelabz.qa.api_automation.Rest_Api_Automation_Testing_Test@3514a4c0]" started-at="2023-01-07T14:52:05 IST" name="get_Playlists_items" finished-at="2023-01-07T14:52:05 IST" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Playlists_items -->
+        <test-method signature="get_Playlist()[pri:8, instance:com.bridgelabz.qa.api_automation.Rest_Api_Automation_Testing_Test@3514a4c0]" started-at="2023-01-07T14:52:05 IST" name="get_Playlist" finished-at="2023-01-07T14:52:06 IST" duration-ms="798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Playlist -->
+        <test-method signature="get_users_Playlists()[pri:9, instance:com.bridgelabz.qa.api_automation.Rest_Api_Automation_Testing_Test@3514a4c0]" started-at="2023-01-07T14:52:06 IST" name="get_users_Playlists" finished-at="2023-01-07T14:52:07 IST" duration-ms="303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_users_Playlists -->
+        <test-method signature="update_playlist_items()[pri:10, instance:com.bridgelabz.qa.api_automation.Rest_Api_Automation_Testing_Test@3514a4c0]" started-at="2023-01-07T14:52:07 IST" name="update_playlist_items" finished-at="2023-01-07T14:52:07 IST" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update_playlist_items -->
+        <test-method signature="get_Playlists_cover_image()[pri:11, instance:com.bridgelabz.qa.api_automation.Rest_Api_Automation_Testing_Test@3514a4c0]" started-at="2023-01-07T14:52:07 IST" name="get_Playlists_cover_image" finished-at="2023-01-07T14:52:07 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Playlists_cover_image -->
+        <test-method signature="change_playlist_details()[pri:12, instance:com.bridgelabz.qa.api_automation.Rest_Api_Automation_Testing_Test@3514a4c0]" started-at="2023-01-07T14:52:07 IST" name="change_playlist_details" finished-at="2023-01-07T14:52:07 IST" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- change_playlist_details -->
+        <test-method signature="get_tracks_audio_analysis()[pri:13, instance:com.bridgelabz.qa.api_automation.Rest_Api_Automation_Testing_Test@3514a4c0]" started-at="2023-01-07T14:52:07 IST" name="get_tracks_audio_analysis" finished-at="2023-01-07T14:52:10 IST" duration-ms="2744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_tracks_audio_analysis -->
+        <test-method signature="get_tracks_audio_features()[pri:14, instance:com.bridgelabz.qa.api_automation.Rest_Api_Automation_Testing_Test@3514a4c0]" started-at="2023-01-07T14:52:10 IST" name="get_tracks_audio_features" finished-at="2023-01-07T14:52:10 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_tracks_audio_features -->
+        <test-method signature="get_track_audio_features_by_Id()[pri:15, instance:com.bridgelabz.qa.api_automation.Rest_Api_Automation_Testing_Test@3514a4c0]" started-at="2023-01-07T14:52:10 IST" name="get_track_audio_features_by_Id" finished-at="2023-01-07T14:52:11 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_track_audio_features_by_Id -->
+        <test-method signature="get_several_tracks()[pri:16, instance:com.bridgelabz.qa.api_automation.Rest_Api_Automation_Testing_Test@3514a4c0]" started-at="2023-01-07T14:52:11 IST" name="get_several_tracks" finished-at="2023-01-07T14:52:11 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_several_tracks -->
+        <test-method signature="get_tracks()[pri:17, instance:com.bridgelabz.qa.api_automation.Rest_Api_Automation_Testing_Test@3514a4c0]" started-at="2023-01-07T14:52:11 IST" name="get_tracks" finished-at="2023-01-07T14:52:11 IST" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_tracks -->
+        <test-method signature="remove_from_playlist()[pri:18, instance:com.bridgelabz.qa.api_automation.Rest_Api_Automation_Testing_Test@3514a4c0]" started-at="2023-01-07T14:52:11 IST" name="remove_from_playlist" finished-at="2023-01-07T14:52:11 IST" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remove_from_playlist -->
+      </class> <!-- com.bridgelabz.qa.api_automation.Rest_Api_Automation_Testing_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
